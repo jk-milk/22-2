@@ -1,4 +1,4 @@
-package university;
+package university1_2;
 
 public class Array2D {
 

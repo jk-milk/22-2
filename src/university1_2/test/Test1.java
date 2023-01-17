@@ -1,4 +1,4 @@
-package test;
+package university1_2.test;
 
 import java.util.Scanner;
 
